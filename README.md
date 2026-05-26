@@ -30,3 +30,6 @@ This project enables remote control of home appliances using ESP8266 and Wi-Fi c
 - Voice control
 - AI automation
 - Mobile app integration
+
+# Author
+Mani Sandeep
