@@ -11,11 +11,13 @@ This project enables remote control of home appliances using ESP8266 and Wi-Fi c
 
 # Components Used
 - ESP8266
+- Arduino UNO
+- Ultrasonic sensors
 - Relay Module
 - Bulb/Fan
 - Wi-Fi Network
 
-## Technologies
+# Software & Interface
 - Arduino IDE
 - Blynk
 
